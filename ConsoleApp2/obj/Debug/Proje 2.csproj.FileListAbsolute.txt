@@ -1,0 +1,7 @@
+C:\Users\sabri\Desktop\DERS\DS\Proje 2B\Proje 2B.1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\sabri\Desktop\DERS\DS\Proje 2B\Proje 2B.1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\sabri\Desktop\DERS\DS\Proje 2B\Proje 2B.1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\sabri\Desktop\DERS\DS\Proje 2B\Proje 2B.1\ConsoleApp2\obj\Debug\Proje 2.csprojAssemblyReference.cache
+C:\Users\sabri\Desktop\DERS\DS\Proje 2B\Proje 2B.1\ConsoleApp2\obj\Debug\Proje 2.csproj.CoreCompileInputs.cache
+C:\Users\sabri\Desktop\DERS\DS\Proje 2B\Proje 2B.1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\sabri\Desktop\DERS\DS\Proje 2B\Proje 2B.1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
